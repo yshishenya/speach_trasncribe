@@ -16,7 +16,7 @@
 
   1. Клонируйте репозиторий:
   ```
-  git clone https://github.com/yourusername/yourrepository.git
+  git clone https://github.com/yshishenya/Speach_trasncribe.git
   cd yourrepository
   ```
   2. Установите необходимые пакеты:
