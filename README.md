@@ -48,7 +48,7 @@
   ```
   2. Установите pyenv:
   ```
-  pip install pyenv
+  brew install pyenv
   ```
   3. Установите Python 3.10.13 с помощью pyenv:
   ```
