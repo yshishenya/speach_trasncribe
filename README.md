@@ -44,7 +44,7 @@
 
   1. Клонируйте репозиторий:
   ```
-  cd Whisper_speaker_diarization
+  cd speach_trasncribe
   ```
   2. Установите pyenv:
   ```
