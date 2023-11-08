@@ -17,7 +17,7 @@
   1. Клонируйте репозиторий:
   ```
   git clone https://github.com/yshishenya/Speach_trasncribe.git
-  cd yourrepository
+  cd speach_trasncribe
   ```
   2. Установите необходимые пакеты:
   ```
